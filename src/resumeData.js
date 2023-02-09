@@ -2,24 +2,23 @@ let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Tanner Goodale",
     "role": "Full Stack Web Developer",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
-    "roleDescription": " I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "linkedinId":" tanner-goodale-581304a6",
+    "roleDescription": " I enjoy dabbling in various parts of frontend and backend development and love to learn about new technologies. System architecture is my passion, with most of my work being focused on microservice development.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/tanner-goodale-581304a6/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/Goodale2",
           "className":"fa fa-github"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I'm currently a seinor at BYU-I finsihing out my Bachelors of Science in Web Development and Design. I'm also a full time developer for SimpleConsign, the industry leading consignment software powered by Traxia.",
+    "address":"2581 E Bulrush Drive, Columbia MO",
+    "website":"https://github.com/Goodale2",
     "education":[
       {
         "UniversityName":"The LNM Insitute of Information Technology",
