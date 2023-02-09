@@ -21,37 +21,24 @@ let resumeData = {
     "website":"https://github.com/Goodale2",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
+        "UniversityName":"Brigham Young University-Idaho",
+        "specialization":"Web Development",
+        "MonthOfPassing":"July",
+        "YearOfPassing":"2023",
         "Achievements":"Some Achievements"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"SimpleConsign | Powered by Traxia",
+        "specialization":"Full Stack Web Developer",
+        "StartingMonth":"Feb",
+        "StartingYear":"2022",
+        "EndingYear":"Current",
+        "Achievements":"Migrated legacy codebase written in GWT to a modular, microservice cluster written in Next.js with custom Node servers."
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Some of my Skills",
     "skills":[
       {
         "skillname":"HTML5"
@@ -60,29 +47,38 @@ let resumeData = {
         "skillname":"CSS"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"TypeScript"
+      },
+      {
+        "skillname":"Next"
+      },
+      {
+        "skillname":"Node"
+      },
+      {
+        "skillname":"SQL"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Node",
+        "description":"Examples of Hexagonal code architecture",
+        "imgurl":"images/portfolio/into-the-light.jpg"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Grails",
+        "description":"Updating and maintaining legacy Grails apps",
+        "imgurl":"images/portfolio/retrocam.jpg"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Next",
+        "description":"Complex web apps built with Next.js",  
+        "imgurl":"images/portfolio/origami.jpg"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Everything Else",
+        "description":"A general repo for fun projects",
+        "imgurl":"images/portfolio/judah.jpg"
       }
     ],
     "testimonials":[

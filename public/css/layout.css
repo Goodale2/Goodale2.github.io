@@ -52,7 +52,7 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
@@ -325,86 +325,87 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
-  	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
-}
-.illustrator {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
-}
-.wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
-}
 .css {
-  	width: 90%;
+  	width: 56%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
 .html5 {
-  	width: 80%;
+  	width: 70%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+.typescript {
+   width: 78%;
+   -moz-animation: typescript 2s ease;
+   -webkit-animation: typescript 2s ease;
+}
+.next {
+  	width: 68%;
+  	-moz-animation: next 2s ease;
+  	-webkit-animation: next 2s ease;
+}
+.node {
+   width: 80%;
+   -moz-animation: node 2s ease;
+   -webkit-animation: node 2s ease;
+}
+.sql {
+   width: 60%;
+   -moz-animation: sql 2s ease;
+   -webkit-animation: sql 2s ease;
 }
 
-@-moz-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 60%;  }
-}
-@-moz-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
-}
-@-moz-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
-}
+
 @-moz-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 56%;  }
 }
 @-moz-keyframes html5 {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 70%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes typescript {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 78%;  }
+}
+@-moz-keyframes next {
+   0%   { width: 0px;  }
+   100% { width: 68%;  }
+}
+@-moz-keyframes node {
+   0%   { width: 0px;  }
+   100% { width: 80%;  }
+}
+@-moz-keyframes sql {
+   0%   { width: 0px;  }
+   100% { width: 60%;  }
 }
 
-@-webkit-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 60%;  }
-}
-@-webkit-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
-}
-@-webkit-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
-}
 @-webkit-keyframes css {
-  0%   { width: 0px;  }
-  100% { width: 90%;  }
-}
-@-webkit-keyframes html5 {
-  0%   { width: 0px;  }
-  100% { width: 80%;  }
-}
-@-webkit-keyframes jquery {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
-}
+   0%   { width: 0px;  }
+   100% { width: 56%;  }
+ }
+ @-webkit-keyframes html5 {
+   0%   { width: 0px;  }
+   100% { width: 70%;  }
+ }
+ @-webkit-keyframes typescript {
+   0%   { width: 0px;  }
+   100% { width: 78%;  }
+ }
+ @-webkit-keyframes next {
+    0%   { width: 0px;  }
+    100% { width: 68%;  }
+ }
+ @-webkit-keyframes node {
+    0%   { width: 0px;  }
+    100% { width: 80%;  }
+ }
+ @-webkit-keyframes sql {
+    0%   { width: 0px;  }
+    100% { width: 60%;  }
+ }
 
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
